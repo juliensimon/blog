@@ -1,6 +1,6 @@
 ---
 title: "Fine-tuning Stable Diffusion models on Intel CPUs"
-thumbnail: /blog/assets/stable-diffusion-finetuning-intel/01.png
+thumbnail: /blog/assets/stable-diffusion-finetuning-intel/thumbnail.png
 authors:
 - user: juliensimon
 ---
